@@ -1,0 +1,149 @@
+/* CSS Document */
+
+.header{
+	padding: 24px 0;
+}
+.xanhduong{
+	background-color:#C9ECFE;
+	
+}
+
+.logo a{
+	font-size: 64px;
+	color:#34AEEA;
+	text-decoration:none;
+}
+.nav ul{
+	list-style: none;
+}
+.nav il{
+	margin: 0 16px;
+}
+.nav il a{
+	text-decoration: none;
+	color:#2495BC;
+}
+.nav il a:hover{
+	opacity: 0.5;
+	color:#0063BF;
+}
+.banner{
+	padding: 24 0 0 0;
+	height: 670px;
+	background:url(../img/bn2.jpg);
+	background-size: cover;
+	background-position:center;
+	
+}
+.conten-banner{
+	padding: 300px 0;
+	text-align:center;
+	background-size: cover;
+	background-position:center;
+	text-decoration: none;
+}
+.conten-banner p{
+	margin-bottom: 24px;
+	color: #F6797B;
+	font-size: 24px;
+	
+}
+.conten-banner h1{
+	color:#F6797B;
+	font-size: 36px;
+	margin-bottom: 12px;
+}
+.btn{
+	font-size: 24;
+	color:#F58284;
+	text-decoration: none;
+	background: #48AFE8;
+	padding: 12px;
+	border: 2px solid #F58284;
+}
+.banner a:hover{
+	color:#FF1216;
+	opacity: 0.5;
+}
+.box1{
+	background:url( "../img/box1.jpg");
+	height: 360px;
+	text-align:center;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;
+	
+}
+.box2{
+	background:url( "../img/box2.jpg");
+	height: 360px;
+	text-align:center;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;
+}
+.box3{
+	background:url( "../img/box3.jpg");
+	height: 360px;
+	text-align:center;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;
+}
+.bt{
+	color:#F58284;
+	text-decoration: none;
+}
+.bestseller a:hover{
+	color:#0D5DA7;
+	opacity: 0.5;
+}
+.bestseller a {
+	font-size: 32px;
+	text-shadow:2px 3px 7px gray;
+}
+.bestseller h1{
+	text-align: center;
+	color:#3495E6;
+	margin: 24px 0;
+}
+
+.section1{
+	height:100vh;
+	background-image: url( "../img/bn4.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
+.mau h1{
+	text-align: center;
+	color:#3495E6;
+	margin: 24px 0;
+}
+.section2{
+	height:100vh;
+	background-image: url( "../img/bn5.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
+.section3{
+	height:100vh;
+	background-image: url( "../img/2.png");
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
+
+.footer{
+	background-color:#A7E9F5;
+	height: px;
+}
+.text{
+	color: #34AEEA;
+	padding: 34px
+		
+}
